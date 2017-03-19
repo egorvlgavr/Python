@@ -1,4 +1,4 @@
-# Program that model stabilization of Furuta pendulum in upper equilibrium point
+# Stabilization of Furuta pendulum in upper equilibrium point
 ## Description
 This program models behavior of pendulum for 5 deg deviation from upper point.
 Model of pendulum is nonlinear but we consider it near upper equilibrium where it is linear.
