@@ -1,4 +1,4 @@
-# Program to calculate robot trajectory
+# Calculation trajectory of three-link planar arm manipulator 
 ## Description
 This program calculate trajectory of manipulator of three-link planar arm. As initial condition we have four points and four moments of time, when manipulator is at these points. We consider that manipulator moves on 4-3-4 trajectory. Program draw trajectory in XYZ coordinates and it projections in XY, XZ, YZ planes. 
 ## Information
