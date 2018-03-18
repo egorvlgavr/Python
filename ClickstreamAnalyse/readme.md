@@ -15,7 +15,7 @@ Print: number of query - product pairs, number of unique queries, max/min/avg pr
 Apply only for click stream.
 Write in file all unique queries that was filtered by several filters. Can add to queries number of products.
 #### Histogram
-Apply for click stream and training set
+Apply for click stream and training set. Source can be changed in settings.
 Show histogram of click stream/training set column data. 
 ## Information
 This program is written on *Python 3.5*. It use **matplotlib** for visualisation of data. 
