@@ -1,0 +1,15 @@
+{
+  "histogram" : {
+      "source" : "training_set",
+      "column" : "rank",
+      "num_of_bins" : 100
+  },
+  "filters" :{
+    "min_impression" : 100,
+    "min_products_per_query": 2
+  },
+  "queries" : {
+    "file" : "queries.csv",
+    "add_count": true
+  }
+}
