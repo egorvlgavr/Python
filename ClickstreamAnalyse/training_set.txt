@@ -1,9 +1,0 @@
-#0=on_sale,1=bm25_score
-4 qid:0 0:1 1:3.7 #search - 1
-2 qid:0 0:0 1:4.1 #search - 2
-1 qid:0 0:0 1:3.7 #search - 3
-5 qid:0 0:1 1:1.7 #search - 4
-3 qid:1 0:1 1:3.5 #search - 5
-0 qid:1 0:0 1:4.3 #search - 6
-0 qid:1 0:0 1:3.7 #search - 7
-1 qid:1 0:1 1:1.8 #search - 8
